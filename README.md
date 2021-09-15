@@ -4,7 +4,6 @@
 
 [![Build Status](https://travis-ci.com/SonarSource/sonarcloud-github-action.svg?branch=master)](https://travis-ci.com/SonarSource/sonarcloud-github-action)
 
-# springBootTemplate
 Demo project for Spring Boot
 
 ## ACITONS
